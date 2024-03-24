@@ -1,7 +1,7 @@
 # Practica-3-Formularios-validados-con-JS-parte-2
 
 # Introducción
-Este es un resumen que explica varios conceptos relacionados con el desarrollo web utilizando JavaScript. Estos conceptos incluyen arreglos en JavaScript, almacenamiento en el navegador (sessionStorage y localStorage), JSON (JavaScript Object Notation), funciones `JSON.parse()` y `JSON.stringify()`, `window.location.href`, y el funcionamiento de `scriptResultados.js`.
+Este es un analisis que explica varios conceptos relacionados con el desarrollo web utilizando JavaScript. Estos conceptos incluyen arreglos en JavaScript, almacenamiento en el navegador (sessionStorage y localStorage), JSON (JavaScript Object Notation), funciones `JSON.parse()` y `JSON.stringify()`, `window.location.href`, y el funcionamiento de `scriptResultados.js`.
 
 # Arreglos en JavaScript
 Los arreglos en JavaScript son como cajas de almacenamiento flexibles que permiten guardar múltiples objetos o valores en una sola variable. Pueden contener diferentes tipos de datos, incluyendo números, texto y otros arreglos. Para acceder a los elementos dentro de un arreglo, se utilizan índices que indican la posición del elemento en el arreglo.
