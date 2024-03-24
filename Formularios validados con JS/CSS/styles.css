@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../img/fondo2.jpg');
+}
+
+.container {
+    width: 500px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.container h1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+#formulario {
+    width: 100%;
+    background: #24303c;
+    padding: 30px; 
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+/*  estilo de los campos de entrada */
+#formulario input[type="text"],
+#formulario input[type="email"],
+#formulario input[type="date"] {
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    border-radius: 4px;
+    font-size: 18px;
+    color: white;
+    background-color: #24303c; 
+}
+
+/* Estilo del botón de envío */
+#formulario button {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+#mensajeError {
+    margin-top: 20px; 
+}
+
+
+
+.pag2{
+    
+    color: aliceblue;
+    padding: 20px;
+    
+}
